@@ -1,0 +1,16 @@
+/* Demo purposes styles */
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  background-color: var(--color-ndm-bg);
+  color: var(--color-ndm-text);
+}
+
+.main-example {
+    border: .2rem dashed var(--color-ndm-base-accent);
+    padding: 1rem 2rem;
+    width: 70%;
+    margin: 5rem auto;
+}
+/* end demo purposes styles */
